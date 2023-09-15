@@ -1,0 +1,19 @@
+# Project information
+site_name: GMEM's Home
+site_url: http://gmem.tech
+site_author: dev@openeuler.org
+
+# Repository
+repo_name: openEuler/GMEM
+repo_url: https://github.com/GMEM-Team/gmem-team.github.io
+edit_uri: https://github.com/GMEM-Team/gmem-team.github.io/tree/master/docs
+
+# Copyright
+copyright: Copyright &copy; 2023 openEuler GMEM team
+
+# Pages
+nav:
+- Home: index.md
+
+theme:
+  name: mkdocs
