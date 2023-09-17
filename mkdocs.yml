@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2023 openEuler GMEM team
 
 # Pages
 nav:
-- Home: en/index.md
+- Home: index.md
 
 theme:
   name: material
@@ -21,9 +21,9 @@ theme:
 
 extra:
   alternate:
+    - name: English
+      link: /
+      lang: en
     - name: Chinese
       link: /zh/
       lang: zh
-    - name: English
-      link: /en/
-      lang: en
