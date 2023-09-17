@@ -1,8 +1,6 @@
 
 
-## GMEM主页编辑
-
-[GMEM's Home](https://gmem-team.github.io) 
+## GMEM主页
 
 * 安装mkdocs
 
@@ -12,32 +10,27 @@
   pip install mkdocs
   # 安装主题
   pip install mkdocs-material
-  
+  ```
+
+* mkdocs基本命令
+
+  ```sh
   # Print help message
-  mkdocs -h 
+  mkdocs -h
+  # 在本地查看网页
+  mkdocs serve
+  # 构建并发布网页到gh-pages分支
+  mkdocs gh-deploy --force --no-history -f ./mkdocs.yml
   ```
 
 * 网页组成
+
+  更新master分支，会自动构建并发布网页
 
   ```sh
   mkdocs.yml    # The configuration file.
   docs/
       index.md  # The documentation homepage.
       ...       # Other markdown pages, images and other files.
-  site/
-      index.html # 由mkdocs生成的静态网页，托管到gh-pages分支
-      ... 
-  ```
-
-* 在本地查看网页
-
-  ```sh
-  mkdocs serve
-  ```
-  
-* 更新网页到gh-pages分支
-
-  ```sh
-  mkdocs gh-deploy --force --no-history -f ./mkdocs.yml
   ```
 
