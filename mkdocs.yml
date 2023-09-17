@@ -22,8 +22,9 @@ theme:
 extra:
   alternate:
     - name: English
-      link: /
+      link: /en/
       lang: en
     - name: Chinese
-      link: /zh/
+      link: /
       lang: zh
+
