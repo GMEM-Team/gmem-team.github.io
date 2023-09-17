@@ -13,7 +13,17 @@ copyright: Copyright &copy; 2023 openEuler GMEM team
 
 # Pages
 nav:
-- Home: index.md
+- Home: en/index.md
 
 theme:
-  name: mkdocs
+  name: material
+  language: en
+
+extra:
+  alternate:
+    - name: Chinese
+      link: /zh/
+      lang: zh
+    - name: English
+      link: /en/
+      lang: en

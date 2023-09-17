@@ -10,6 +10,9 @@
 
   ```sh
   pip install mkdocs
+  # 安装主题
+  pip install mkdocs-material
+  
   # Print help message
   mkdocs -h 
   ```
