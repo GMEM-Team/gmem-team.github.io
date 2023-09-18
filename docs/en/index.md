@@ -56,3 +56,22 @@ GMEM provides those features:
 
 ![gmem-arch](/assets/index/image-20230917-gmem-arch.jpg)
 
+## Community
+
+[Github]()
+
+[openEuler]()
+
+**Repo:**
+
+- [Kernel](https://gitee.com/openeuler/kernel/blob/openEuler-23.09/mm/gmem.c)
+
+- [Driver](https://gitee.com/openeuler/kernel/tree/openEuler-23.09/drivers/remote_pager)
+
+- [Lib of GMEM](https://gitee.com/openeuler/libgmem)
+
+
+## Contact Us
+
+[SIG Email(Sig-Computing)](dev@openeuler.org)
+
