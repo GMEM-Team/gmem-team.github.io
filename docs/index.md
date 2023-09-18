@@ -77,5 +77,5 @@ GMEM实现异构内存透明扩容技术，使能HBM内存自动超分，实现�
 
 
 ## 联系我们
-[SIG Email(Sig-Computing)](dev@openeuler.org)
+SIG Email(Sig-Computing): <dev@openeuler.org>
 

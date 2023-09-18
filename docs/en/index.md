@@ -73,5 +73,5 @@ GMEM provides those features:
 
 ## Contact Us
 
-[SIG Email(Sig-Computing)](dev@openeuler.org)
+SIG Email(Sig-Computing): <dev@openeuler.org>
 
