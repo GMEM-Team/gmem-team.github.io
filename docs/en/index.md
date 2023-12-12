@@ -51,6 +51,7 @@ GMEM provides those features:
 
 - Higher memory utilization
 
+[User Interface Description](https://gitee.com/openeuler/libgmem/blob/master/README.md#instructions)
 
 ## Architecture
 
@@ -60,7 +61,7 @@ GMEM provides those features:
 
 [Github]()
 
-[openEuler]()
+[openEuler](https://gitee.com/openeuler/docs/tree/master/docs/en/docs/GMEM)
 
 **Repo:**
 
