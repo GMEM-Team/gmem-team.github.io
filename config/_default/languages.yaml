@@ -1,0 +1,12 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+zh:
+  languageCode: zh
+  contentDir: content/zh
+
+  #en:
+  #languageCode: en-us
+  #contentDir: content/en
